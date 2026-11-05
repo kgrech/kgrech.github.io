@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.konstantin.tasks",
+      "sha256_cert_fingerprints": [
+        "1B:58:08:E8:93:9E:F8:02:BB:B0:A8:D8:7D:6D:63:E4:47:4B:4B:52:AC:96:5B:1D:07:77:8C:A4:E5:3A:A2:EE"
+      ]
+    }
+  }
+]
